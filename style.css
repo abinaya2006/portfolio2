@@ -1,0 +1,31 @@
+h1 {
+    color : royalblue 
+}
+
+.header{
+    background-color: aquamarine;
+    display : flex;
+    justify-content :space-between;
+}
+
+.info{
+    background-color: rgb(108, 28, 199);
+    text-align: center;
+}
+
+.games{
+    background-color: darksalmon;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.names{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social{
+    display: flex;
+    justify-content:flex-end ;
+}
